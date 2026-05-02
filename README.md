@@ -7,10 +7,7 @@ This repository showcases hands-on labs in Microsoft 365 and modern device manag
 - Microsoft Intune
 - Autopilot
 - Entra ID
-
-## Projects
-- Autopilot deployment (coming)
-- Device management policies (coming)
+- Microsoft Purview
 
 ## About me
 IT Technician transitioning into Cloud & Infrastructure.
